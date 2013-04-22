@@ -7,3 +7,5 @@ Arduino Uno Maze Solving Robot Algorithm
  * Outputs signals to the motors to control movement
  * Algorithm: "Left-Hand-on-Wall" Algorithm to solve maze (priorities of checking movements are Left, Straight, Right, Back)
  * Optimization: We use substituion with the list of moves anytime the robot went back in order to optimize the path. For example: Left, Back, Left becomes Straight 
+
+**NOTE: Sorry about the video it is too big to see here but you can download it
